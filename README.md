@@ -1,3 +1,5 @@
+Prebuilt binary available on the [Releases page](https://github.com/shubhamddhage/ifc-colour-plugin/releases) — no build required. Copy the `.dll` and rename `BeamTypeCreator.addin.sample` to `BeamTypeCreator.addin`, update the path inside it, and drop both into your Revit Addins folder.
+
 # IFC Colour
 
 A Revit add-in for managing and applying material colour rules — built to keep IFC export colour-coding and "as-modeled" appearance colours in sync without manually editing material overrides every time.
