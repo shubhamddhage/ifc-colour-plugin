@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Name>IFC Colour</Name>
+    <Assembly>C:\PATH\TO\YOUR\REPO\IfcColour\bin\x64\Debug\net48\IfcColour.dll</Assembly>
+    <AddInId>0F7C6B10-8D5B-4B2A-A7B4-22C1A73E2231</AddInId>
+    <FullClassName>IfcColour.UpdateIfcColourCommand</FullClassName>
+    <VendorId>USER</VendorId>
+    <VendorDescription>IFC Colour material rule editor for Revit.</VendorDescription>
+  </AddIn>
+</RevitAddIns>
